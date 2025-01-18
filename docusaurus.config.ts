@@ -11,7 +11,7 @@ const config: Config = {
     favicon: 'img/favicon.ico',
 
     // TODO( github project link )
-    url: 'https://seonWKim.github.io',
+    url: 'https://robbystar24.github.io',
     // TODO (github project name e.g. /simple-web-programming/ )
     baseUrl: '/mine/',
 
