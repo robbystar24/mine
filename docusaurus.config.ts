@@ -6,8 +6,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
     // TODO: fix title, tagline, favicon
-    title: 'testing haha',
-    tagline: 'tagging',
+    title: 'JISU INC',
+    tagline: 'Welcom to my world',
     favicon: 'img/favicon.ico',
 
     // TODO( github project link )
@@ -65,7 +65,7 @@ const config: Config = {
         // Replace with your project's social card
         image: 'img/toastmaster.jpg',
         navbar: {
-            title: 'HDTM',
+            title: 'CATS',
             // TODO( navigation bar logo image url)
             logo: {
                 alt: 'HDTM Logo',
@@ -76,11 +76,11 @@ const config: Config = {
                     type: 'docSidebar',
                     sidebarId: 'tutorialSidebar',
                     position: 'left',
-                    label: 'Tutorial',
+                    label: 'Click to Care',
                 },
                 {
-                    href: 'https://www.instagram.com/hongdaetoastmasters/',
-                    label: 'Instagram',
+                    href: 'https://namu.wiki/w/%EA%B3%A0%EC%96%91%EC%9D%B4',
+                    label: 'What are CATS?',
                     position: 'right',
                 },
             ],
@@ -92,22 +92,22 @@ const config: Config = {
                     title: 'Docs',
                     items: [
                         {
-                            label: 'Tutorial',
+                            label: 'Click to Care',
                             to: '/docs/intro',
                         },
                     ],
                 },
                 {
                     // TODO( footer components )
-                    title: 'Community',
+                    title: 'Other animals',
                     items: [
                         {
-                            label: 'Kakao',
-                            href: 'https://open.kakao.com/o/ggM3CWFb',
+                            label: 'Sloths',
+                            href: 'https://namu.wiki/w/%EB%82%98%EB%AC%B4%EB%8A%98%EB%B3%B4',
                         },
                         {
-                            label: 'Instagram',
-                            href: 'https://www.instagram.com/hongdaetoastmasters/',
+                            label: '오리너구리',
+                            href: 'https://namu.wiki/w/%EC%98%A4%EB%A6%AC%EB%84%88%EA%B5%AC%EB%A6%AC',
                         },
                     ],
                 },

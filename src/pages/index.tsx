@@ -22,7 +22,7 @@ function HomepageHeader() {
                         className="button button--secondary button--lg"
                         to="/docs/intro">
                         {/* TODO: fix this line */}
-                        아무렇게나 적고 있다?
+                        하하하 재밌다
                     </Link>
                 </div>
             </div>
