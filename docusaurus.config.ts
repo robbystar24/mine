@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
     // TODO: fix title, tagline, favicon
-    title: 'heytitle',
+    title: 'testing haha',
     tagline: 'tagging',
     favicon: 'img/favicon.ico',
 
